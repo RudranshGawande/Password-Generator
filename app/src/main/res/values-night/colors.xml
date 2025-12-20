@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#137fec</color>
+    <color name="primary_light">#1A137fec</color> <!-- primary/10 with alpha -->
+    <color name="background">#101922</color>
+    <color name="surface">#1A222C</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#9ca3af</color> <!-- gray-400 -->
+    <color name="text_tertiary">#9ca3af</color>
+    <color name="border">#1f2937</color> <!-- gray-800 -->
+    <color name="divider">#1f2937</color>
+    
+    <color name="strength_filled">#22c55e</color>
+    <color name="strength_empty">#4D22c55e</color>
+    
+    <color name="thumb_border">#137fec</color>
+    <color name="track_active">#137fec</color>
+    <color name="track_inactive">#3b4754</color>
+    
+    <color name="switch_track_unchecked">#374151</color>
+    <color name="switch_thumb_unchecked">#ffffff</color>
+
+    <!-- History specific (Dark) -->
+    <color name="history_background">#101922</color>
+    <color name="history_card_bg">#1a232e</color>
+    <color name="history_text_primary">#FFFFFF</color>
+    <color name="history_text_secondary">#94a3b8</color> <!-- slate-400 -->
+    <color name="history_icon_green_bg">#3322c55e</color> <!-- green-500/20 -->
+    <color name="history_icon_green">#4ade80</color> <!-- green-400 -->
+    <color name="history_icon_primary_bg">#33137fec</color>
+    <color name="history_icon_primary">#137fec</color>
+    <color name="history_icon_orange_bg">#33f97316</color>
+    <color name="history_icon_orange">#fb923c</color> <!-- orange-400 -->
+    <color name="history_icon_gray_bg">#1e293b</color> <!-- slate-800 -->
+    <color name="history_icon_gray">#94a3b8</color>
+    <color name="history_separator">#33475569</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="generated_password_label">GENERATED PASSWORD</string>
+    <string name="strength_label">Strength</string>
+    <string name="strength_value_very_strong">Very Strong</string>
+    <string name="length_label">Length</string>
+    <string name="options_label">Options</string>
+    <string name="uppercase_label">Uppercase</string>
+    <string name="uppercase_desc">A-Z</string>
+    <string name="lowercase_label">Lowercase</string>
+    <string name="lowercase_desc">a-z</string>
+    <string name="numbers_label">Numbers</string>
+    <string name="numbers_desc">0-9</string>
+    <string name="symbols_label">Symbols</string>
+    <string name="symbols_desc">!@#$</string>
+    <string name="generate_password_button">Generate Password</string>
+    <string name="copy_success_message">Password copied to clipboard</string>
+</resources>

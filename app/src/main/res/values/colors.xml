@@ -1,0 +1,39 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#137fec</color>
+    <color name="primary_light">#E7F2FD</color> <!-- primary/10 roughly -->
+    <color name="background">#f6f7f8</color>
+    <color name="surface">#ffffff</color>
+    <color name="text_primary">#111418</color>
+    <color name="text_secondary">#6b7280</color>
+    <color name="text_tertiary">#9ca3af</color>
+    <color name="border">#e5e7eb</color>
+    <color name="divider">#f3f4f6</color>
+    
+    <color name="strength_filled">#22c55e</color>
+    <color name="strength_empty">#4D22c55e</color>
+    
+    <color name="thumb_border">#137fec</color>
+    <color name="track_active">#137fec</color>
+    <color name="track_inactive">#e5e7eb</color>
+    
+    <color name="switch_track_unchecked">#e5e7eb</color>
+    <color name="switch_thumb_unchecked">#ffffff</color>
+
+    <!-- History specific (Light) -->
+    <color name="history_background">@color/background</color>
+    <color name="history_card_bg">@color/surface</color>
+    <color name="history_text_primary">@color/text_primary</color>
+    <color name="history_text_secondary">@color/text_secondary</color>
+    <color name="history_icon_green_bg">#dafce6</color> <!-- Light green bg -->
+    <color name="history_icon_green">#16a34a</color> <!-- Darker green for icon -->
+    <color name="history_icon_primary_bg">#e0f2fe</color>
+    <color name="history_icon_primary">#0284c7</color>
+    <color name="history_icon_orange_bg">#ffedd5</color>
+    <color name="history_icon_orange">#ea580c</color>
+    <color name="history_icon_gray_bg">#f1f5f9</color>
+    <color name="history_icon_gray">#64748b</color>
+    <color name="history_separator">#e2e8f0</color>
+</resources>

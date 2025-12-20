@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#0c131a</color>
+    <color name="splash_blob_blue">#3360a5fa</color>
+    <color name="splash_blob_indigo">#33818cf8</color>
+    <color name="splash_logo_container">#1A222C</color>
+    <color name="splash_key_bg">#1e3a8a</color>
+    <color name="splash_shield_bg">#312e81</color>
+    <color name="splash_subtitle">#9ca3af</color>
+    <color name="splash_footer">#6b7280</color>
+</resources>
